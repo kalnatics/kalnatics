@@ -3,14 +3,14 @@
 ## 👀 About Me
 I’m interested in:
 - Technology and Software Development
-- 3D Modeling and Design
+- 3D Modeling and UI/UX Design
 - Artificial Intelligence and Machine Learning
 
 ## 🌱 Current Focus
 I’m currently learning:
-- Advanced Blender for 3D modeling and animation
+- Advanced Figma for UI/UX Design
 - Full-stack web development
-- Machine learning techniques
+- Android development techniques
 
 ## 💞️ Collaboration
 I’m looking to collaborate on:
